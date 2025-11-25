@@ -74,6 +74,20 @@ Before you begin, ensure you have the following installed. If not, follow the st
 
 Follow these steps carefully to get the project running on your local machine.
 
+### Step 0: Clone the Repository 📥
+
+1.  **Open Terminal**:
+    *   Open Command Prompt (cmd) or PowerShell.
+    *   Navigate to the folder where you want to keep the project.
+2.  **Run Clone Command**:
+    ```bash
+    git clone https://github.com/Darwingamer01/Cafe-Management-System.git
+    ```
+3.  **Navigate to Project**:
+    ```bash
+    cd Cafe-Management-System
+    ```
+
 ### Step 1: Database Configuration 🗄️
 
 1.  **Locate the Schema File**:
